@@ -24,11 +24,3 @@ C:\Users\sinac\RiderProjects\Ksero\obj\Debug\net6.0\Ksero.pdb
 C:\Users\sinac\RiderProjects\Ksero\obj\Debug\net6.0\Ksero.genruntimeconfig.cache
 C:\Users\sinac\RiderProjects\Ksero\obj\Debug\net6.0\ref\Ksero.dll
 C:\Users\sinac\RiderProjects\Ksero\bin\Debug\net6.0\structurizr-69599-20220416213305.json
-C:\Users\sinac\RiderProjects\Ksero\bin\Debug\net6.0\structurizr-69599-20220419162951.json
-C:\Users\sinac\RiderProjects\Ksero\bin\Debug\net6.0\structurizr-69599-20220419170617.json
-C:\Users\sinac\RiderProjects\Ksero\bin\Debug\net6.0\structurizr-69599-20220421195534.json
-C:\Users\sinac\RiderProjects\Ksero\bin\Debug\net6.0\structurizr-69599-20220421200410.json
-C:\Users\sinac\RiderProjects\Ksero\bin\Debug\net6.0\structurizr-69599-20220421200727.json
-C:\Users\sinac\RiderProjects\Ksero\bin\Debug\net6.0\structurizr-73986-20220507223423.json
-C:\Users\sinac\RiderProjects\Ksero\bin\Debug\net6.0\structurizr-73986-20220507223836.json
-C:\Users\sinac\RiderProjects\Ksero\bin\Debug\net6.0\structurizr-73986-20220507225159.json
